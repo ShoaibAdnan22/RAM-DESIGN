@@ -3,11 +3,7 @@ COMPANY: CODTECH IT SOLUTIONS
 
 NAME: MOHAMMED SHOAIB ADNAN
 
-INTERN ID: CT06DF1447<img width="1905" height="585" alt="Ram design vlsi" src="https://github.com/user-attachments/assets/1051ea30-7493-4edf-8b29-b12968742b8c" />
-<img width="1897" height="565" alt="alu vlsi" src="https://github.com/user-attachments/assets/3e9baca2-3b95-4bb1-a380-b77b12ac07d9" />
-<img width="1905" height="585" alt="Ram design vlsi" src="https://github.com/user-attachments/assets/76fd7689-7545-4054-bd39-2c285c48e694" />
-<img width="1905" height="585" alt="Ram design vlsi" src="https://github.com/user-attachments/assets/759457a6-296d-46d1-a691-619b5688ef7c" />
-
+INTERN ID: CT06DF1447
 
 DOMAIN: VLSI
 
@@ -30,3 +26,4 @@ I ran the simulation using Icarus Verilog, and used Open EPWave to view the wave
 Overall, this task significantly enhanced my understanding of how synchronous RAM operates at the digital logic level. It also improved my skills in Verilog coding, testbench creation, and interpreting simulation waveforms. By the end of this task, I was able to successfully design, simulate, and verify a simple RAM system that demonstrated both writing to and reading from memory.
 
 **SIMULATION OUTPUT
+<img width="1905" height="585" alt="Ram design vlsi" src="https://github.com/user-attachments/assets/a659360e-3c49-4328-9d29-940e620e98af" />
